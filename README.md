@@ -24,7 +24,7 @@ nodemon
 
 # Steps to configure project
 * First Run  ```npm install``` to install dependencies and ```npm install -d``` to install devdependencies
-* Create a .env file by filling PORT NO and type TWITTER_BEARER_TOKEN and add your [TWITTER_BEARER_TOKEN](https://developer.twitter.com/en/portal/dashboard) 
+* Create a .env file by filling PORT NO and add your [TWITTER_BEARER_TOKEN](https://developer.twitter.com/en/portal/dashboard) 
 
 
 # Screenshots
